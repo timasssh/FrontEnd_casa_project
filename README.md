@@ -76,3 +76,12 @@ export default defineConfig([
 ])
 
 ```
+
+You need to create a .env file with the API's url and port following the [vite documentation](https://https://vite.dev/guide/env-and-mode.html#env-variables)
+
+```
+
+VITE_API_URL=http://...
+VITE_API_PORT=...
+
+```
