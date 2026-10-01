@@ -1,0 +1,10 @@
+.note {
+    height: min-content;
+    padding: 0.5ch 4ch;
+    background-color: #f4090920;
+    margin: 0.5ch;
+
+    display: flex;
+    flex-direction: column;
+    max-width: 30vw;
+}
